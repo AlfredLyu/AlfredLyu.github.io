@@ -4,7 +4,7 @@ collection: Teaching Assistant
 type: "Discrete Mathematics and Structures(I)"
 permalink: /teaching/2023-fall-teaching-1
 venue: "Peking University"
-date: 2023 Fall
+date: 2023.9.1
 location: "Beijing, China"
 ---
 
