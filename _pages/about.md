@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Qiushi Lyu's Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I'm a senior student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes Computer Vision, Embodied AI, and Multimodal Learning.
 
 Email: lvqiushi at stu dot pku dot edu dot cn
