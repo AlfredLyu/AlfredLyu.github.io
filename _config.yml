@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Qiushi Lyu's Homepage"
 title_separator          : "-"
-name                     : &name "Qiushi Lyu"
+name                     : &name "                Qiushi Lyu"
 description              : &description "personal description"
 url                      : https://alfredlyu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "       Qiushi Lyu"
+  name             : "Qiushi Lyu"
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Beijing, China"
