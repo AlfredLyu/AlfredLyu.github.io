@@ -8,7 +8,7 @@ author: Hongxin Zhang$^{*}$, Zeyuan Wang$^{*}$, \textbf{Qiushi Lyu$^{*}$}, Zheyu
 # date: 2024.4.22
 # venue: 'Journal 1'
 paperurl: 'https://arxiv.org/pdf/2404.10775'
-slidesurl: 'https://vis-www.cs.umass.edu/combo/'
+websiteurl: 'https://vis-www.cs.umass.edu/combo/'
 ---
 
 Add some description here.
