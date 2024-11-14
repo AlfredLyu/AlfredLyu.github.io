@@ -3,7 +3,7 @@ title: "COMBO: Compositional World Models for Embodied Multi-Agent Cooperation"
 collection: publications
 category: conferences
 permalink: /publication/combo
-excerpt: 'submitted to ICLR 2025 (Average review score 6.00)'
+excerpt: 'submitted to ICLR 2025 (<b>Average review score 6.00</b>)'
 author: Hongxin Zhang*, Zeyuan Wang*, <b>Qiushi Lyu*</b>, Zheyuan Zhang, Sunli Chen, Tianmin Shu, Yilun Du, Chuang Gan
 # date: 2024.4.22
 # venue: 'Journal 1'
