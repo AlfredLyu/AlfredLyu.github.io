@@ -9,6 +9,7 @@ author: Weihua Du*, <b>Qiushi Lyu*</b>, Jiaming Shan, Zhenting Qi, Hongxin Zhang
 # venue: 'GitHub Journal of Bugs'
 paperurl: 'https://arxiv.org/pdf/2411.01796'
 websiteurl: 'https://vis-www.cs.umass.edu/CHAIC/'
+id: 0
 ---
 
 We created a new benchmark, named CHAIC, to test embodied agents' ability to actively perceive human partners' intents and constraints from egocentric visual observations, and designed new agents with real physical constraints and some long-horizon tasks featuring both indoor and outdoor scenes.
