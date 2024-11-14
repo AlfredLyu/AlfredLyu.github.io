@@ -11,4 +11,4 @@ paperurl: 'https://arxiv.org/pdf/2411.01796'
 websiteurl: 'https://vis-www.cs.umass.edu/CHAIC/'
 ---
 
-Add some description here.
+We created a new benchmark, named CHAIC, to test embodied agents' ability to actively perceive human partners' intents and constraints from egocentric visual observations, and designed new agents with real physical constraints and some long-horizon tasks featuring both indoor and outdoor scenes.
