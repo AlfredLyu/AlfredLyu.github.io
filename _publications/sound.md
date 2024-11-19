@@ -1,5 +1,5 @@
 ---
-title: "Add a title here"
+title: "2.5D video-audio generation from single image"
 collection: publications
 category: conferences
 permalink: /publication/sound
