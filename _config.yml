@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Champaign, US"
-  employer         : "University of Illinois Urbana-Champaign"
+  # employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
   email            : "qlyu2@illinois.edu"
 
