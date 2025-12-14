@@ -13,4 +13,4 @@ Please feel free to reach out for any reason!
 
 Email: qlyu2 at illinois dot edu
 
-[Github](https://github.com/AlfredLyu) / [CV](../assets/CV.pdf) / [X](https://x.com/Alfred1918652)
+[Github](https://github.com/AlfredLyu) / [CV](../assets/CV.pdf)
