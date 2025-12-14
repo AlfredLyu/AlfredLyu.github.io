@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes Computer Vision, Embodied AI, and Multimodal Learning.
+I'm currently a first-year Ph.D. student from [Computer Science Department](https://siebelschool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I’m fortunate to be advised by Prof. [Yuxiong Wang](https://yxw.cs.illinois.edu/). Before coming to UIUC, I earned my bachelor’s degree in [School of EECS](https://eecs.pku.edu.cn/) from [Peking University](https://pku.edu.cn). My research interest includes Computer Vision, Multimodal Learning, Video Agent, and Embodied AI.
 
-**I am applying to PhD programs for Fall 2025.** Feel free to reach out for any reason!
+Please feel free to reach out for any reason!
 
-Email: lvqiushi at stu dot pku dot edu dot cn
+Email: qlyu2 at illinois dot edu
 
 [Github](https://github.com/AlfredLyu) / [CV](../assets/CV.pdf) / [X](https://x.com/Alfred1918652)
