@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year Ph.D. student from [Computer Science Department](https://siebelschool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I’m fortunate to be advised by Prof. [Yuxiong Wang](https://yxw.cs.illinois.edu/). Before coming to UIUC, I earned my bachelor’s degree in [School of EECS](https://eecs.pku.edu.cn/) from [Peking University](https://pku.edu.cn). My research interest includes Computer Vision, Multimodal Learning, Video Agent, and Embodied AI.
+I'm currently a first-year Ph.D. student from [Computer Science Department](https://siebelschool.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/), where I’m fortunate to be advised by Prof. [Yuxiong Wang](https://yxw.cs.illinois.edu/). Before coming to UIUC, I earned my bachelor’s degree in [School of EECS](https://eecs.pku.edu.cn/) from [Peking University](https://pku.edu.cn). My research interest includes <b>Computer Vision</b>, <b>Multimodal Learning</b>, <b>Video Agent</b>, and <b>Embodied AI</b>.
 
 Please feel free to reach out for any reason!
 
